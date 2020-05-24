@@ -17,7 +17,7 @@ A visual employee manamgment system of randomly generated employees.
 
 ## Getting Started
 
-Just git clone this repo, open a cli up and navigate to this repo. Then you will run `npm i`, wait for all the node modules to install. Or you can visit this link.
+Just git clone this repo, open a cli up and navigate to this repo. Then you will run `npm i`, wait for all the node modules to install. Or you can visit this [link](https://visual-employee-directory.herokuapp.com/).
 
 ### Executing program
 
